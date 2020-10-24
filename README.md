@@ -3,7 +3,6 @@
 
 Welcome to my Github, I'm Gonzalo Gorgojo, a passionate Jr. frontEnd web developer from Argentina.
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on javascript.
 - 💬 Ask me about anything you want.
