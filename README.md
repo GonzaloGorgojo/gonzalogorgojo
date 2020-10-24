@@ -1,6 +1,5 @@
 ## Hello World, I´m [Gonzalo!](https://gonzalogorgojo.github.io/)👋
 
-
 Welcome to my Github, I'm Gonzalo Gorgojo, a passionate Jr. frontEnd web developer from Argentina.
 
 - 🌱 I’m currently learning React.
@@ -12,5 +11,6 @@ Welcome to my Github, I'm Gonzalo Gorgojo, a passionate Jr. frontEnd web develop
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloGorgojo)](https://github.com/GonzaloGorgojo/github-readme-stats)
