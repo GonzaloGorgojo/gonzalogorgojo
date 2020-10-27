@@ -1,6 +1,6 @@
-## Hello World, I´m [Gonzalo!](https://gonzalogorgojo.github.io/)👋
+## Hello World, I´m [Gonzalo Gorgojo!](https://gonzalogorgojo.github.io/)👋
 
-Welcome to my Github, I'm Gonzalo Gorgojo, a passionate Jr. frontEnd web developer from Argentina.
+Welcome to my Github, I´m currently working as a QA/Tester and also doing some freelance web development. 
 
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on javascript.
