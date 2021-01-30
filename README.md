@@ -3,7 +3,6 @@
 Welcome to my Github, I´m currently working as a QA/Tester and also doing some freelance web development. 
 
 - 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on javascript.
 - 💬 Ask me about anything you want.
 - 📫 Reach me: [Here!](mailto:gongorgojo@gmail.com)
 
