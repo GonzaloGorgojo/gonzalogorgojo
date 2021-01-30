@@ -1,4 +1,4 @@
-## Hello World, I´m [Gonzalo Gorgojo!](https://gonzalogorgojo.github.io/)👋
+## Hello World, I´m [Gonzalo Gorgojo!](https://www.linkedin.com/in/gonzalogorgojo/)👋
 
 Welcome to my Github, I´m currently working as a QA/Tester and also doing some freelance web development. 
 
