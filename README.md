@@ -1,6 +1,6 @@
 ## Hello World, I´m [Gonzalo Gorgojo!](https://www.linkedin.com/in/gonzalogorgojo/)👋
 
-Welcome to my Github, I´m currently working as a QA/Tester and also doing some freelance web development. 
+Welcome to my Github, I´m currently a QA/Tester and working my way to become a software developer. 
 
 - 🌱 I’m currently learning React And Node.
 - 💬 Ask me about anything you want.
