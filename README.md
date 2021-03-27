@@ -1,6 +1,6 @@
 ## Hello World, I´m [Gonzalo Gorgojo!](https://www.linkedin.com/in/gonzalogorgojo/)👋
 
-Welcome to my Github, I´m a software developer. 
+Welcome to my Github, I´m a Software Developer(M.E.R.N stack). 
 
 - 🌱 I’m currently learning React And Node.
 - 💬 Ask me about anything you want.
