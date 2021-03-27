@@ -17,7 +17,7 @@ Welcome to my Github, I´m a software developer.
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="25" src="https://nodejs.org/static/images/logo.svg"></code>
-<code><img height="25" src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/01/mongodb.png?w=775"></code>
+<code><img height="25" src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2019/01/mongodb.png?width=1200&enable=upscale"></code>
 <code><img height="25" src="https://i2.wp.com/enekodelatorre.com/wp-content/uploads/2016/10/express-fondo-2.png?fit=800%2C516&ssl=1"></code>
 
 
