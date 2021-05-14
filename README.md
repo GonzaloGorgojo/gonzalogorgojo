@@ -2,9 +2,9 @@
 
 Welcome to my Github, I´m a Software Developer(M.E.R.N stack). 
 
-- 🌱 I’m currently learning React And Node.
+- 🌱 I’m currently working as a Software Developer at [Redbee](https://www.redbee.io/) .
 - 💬 Ask me about anything you want.
-- 📫 Reach me: [Here!](mailto:gongorgojo@gmail.com)
+- 📫 Send me an Email: [Here!](mailto:gongorgojo@gmail.com)
 
 ### **Languages and Tools:**
 
