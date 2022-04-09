@@ -1,8 +1,8 @@
-## Hello World, I´m [Gonzalo Gorgojo!](https://www.linkedin.com/in/gonzalogorgojo/)👋
+## Hello World, I´m [Gonzalo Gorgojo!](https://www.linkedin.com/in/gonzalogorgojo/){:target="_blank"}👋
 
 Welcome to my Github, I´m a Software Developer 
 
-- 🌱 I’m currently working as a FullStack Software Developer at [Blanc Labs](https://blanclabs.com/) .
+- 🌱 I’m currently working as a FullStack Software Developer at [Blanc Labs](https://blanclabs.com/){:target="_blank"}.
 - 💬 Ask me about anything you want.
 - 📫 Send me an Email: [Here!](mailto:gongorgojo@gmail.com)
 
