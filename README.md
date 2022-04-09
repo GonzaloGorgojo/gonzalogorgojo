@@ -3,8 +3,8 @@
 Welcome to my Github, I´m a Software Developer 
 
 - 🌱 I’m currently working as a FullStack Software Developer at [Blanc Labs](https://blanclabs.com/).
-- 💬 Ask me about anything you want.
-- 📫 Send me an Email: [Here!](mailto:gongorgojo@gmail.com)
+- 💡 This is my personal portfolio page [Portfolio](https://gonzalogorgojo.github.io/)
+- 📫 Ask me about anything you want, you can send me and Email [Here!](mailto:gongorgojo@gmail.com) 
 
 ### **Languages and Tools:**
 
