@@ -1,8 +1,8 @@
 ## Hello World, I´m [Gonzalo Gorgojo!](https://www.linkedin.com/in/gonzalogorgojo/)👋
 
-Welcome to my Github, I´m a Software Developer(M.E.R.N stack). 
+Welcome to my Github, I´m a Software Developer 
 
-- 🌱 I’m currently working as a Software Developer at [Redbee](https://www.redbee.io/) .
+- 🌱 I’m currently working as a FullStack Software Developer at [Blanc Labs](https://blanclabs.com/) .
 - 💬 Ask me about anything you want.
 - 📫 Send me an Email: [Here!](mailto:gongorgojo@gmail.com)
 
@@ -19,6 +19,9 @@ Welcome to my Github, I´m a Software Developer(M.E.R.N stack).
 <code><img height="25" src="https://nodejs.org/static/images/logo.svg"></code>
 <code><img height="25" src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2019/01/mongodb.png?width=1200&enable=upscale"></code>
 <code><img height="25" src="https://i2.wp.com/enekodelatorre.com/wp-content/uploads/2016/10/express-fondo-2.png?fit=800%2C516&ssl=1"></code>
+<code><img height="25" src="https://ahorasomos.izertis.com/solidgear/wp-content/uploads/2019/12/nest-1.png"></code>
+<code><img height="25" src="https://ienrformacion.es/wp-content/uploads/2019/01/jenkins.jpg"></code>
+<code><img height="25" src="https://profile.es/wp-content/media/image.png"></code>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloGorgojo)](https://github.com/GonzaloGorgojo/github-readme-stats)
