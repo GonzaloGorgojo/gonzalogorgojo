@@ -2,13 +2,10 @@
 
 Welcome to my Github profile, I´m a Software Developer currently working at [Blanc Labs](https://blanclabs.com/). On this page, you'll find some of my personal projects, as well as contributions to open source software. Feel free to explore, fork, and leave feedback if you find something interesting.
 
-- 💡 This is my personal portfolio page [Portfolio](https://gonzalogorgojo.com/)
+💡 This is my personal webpage [Portfolio](https://gonzalogorgojo.com/)
 
 ### 📫 Get in touch
-If you want to get in touch, you can reach me via email at [gongorgojo@gmail.com](mailto:gongorgojo@gmail.com) or at <a href="https://www.linkedin.com/in/gonzalogorgojo/">
-  <img alt="Gonzalo Gorgojo Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
+If you want to get in touch, you can reach me via email at [gongorgojo@gmail.com](mailto:gongorgojo@gmail.com) or at my [Linkedin](https://www.linkedin.com/in/gonzalogorgojo/)
 
 ### **Languages and Tools:**
 
