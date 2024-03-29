@@ -1,32 +1,27 @@
-## Hi there, I´m [Gonzalo Gorgojo!](https://www.linkedin.com/in/gonzalogorgojo/)👋
+<h2 align="center">Hi there, I´m <a href="https://www.linkedin.com/in/gonzalogorgojo/">Gonzalo Gorgojo!</a>👋</h2>
 
-Welcome to my Github profile, I´m a Software Developer currently working at [Blanc Labs](https://blanclabs.com/). On this page, you'll find some of my personal projects, as well as contributions to open source software. Feel free to explore, fork, and leave feedback if you find something interesting.
+<pre align="center" style="border-radius: 20px">
+Welcome to my Github profile, I´m a Software Developer currently working at <a href="https://blanclabs.com/">Blanc Labs</a>. On this page, you'll find some of my personal projects, as well as contributions to open source software. Feel free to explore, fork, and leave feedback if you find something interesting.
 
-💡 This is my personal webpage [Portfolio](https://gonzalogorgojo.com/)
+💡 Check out my personal <a href="https://gonzalogorgojo.com/">Portfolio</a>
+</pre>
+<h3 align="center"> 📫 Get in touch </h3>
 
-### 📫 Get in touch
-If you want to get in touch, you can reach me via email at [gongorgojo@gmail.com](mailto:gongorgojo@gmail.com) or at my [Linkedin](https://www.linkedin.com/in/gonzalogorgojo/)
+<pre style="border-radius: 20px; display: flex; justify-content: space-evenly">
+    <a href="mailto:gongorgojo@gmail.com"><img height="50" width="50" src="https://cdn.simpleicons.org/gmail/blue" /></a><a href="https://www.linkedin.com/in/gonzalogorgojo/"><img height="50" width="50" src="https://cdn.simpleicons.org/linkedin" /></a>
+    </pre>
 
-### **Languages and Tools:**
+<h3 align="center">🛠️ Skills:</h3>
+<pre style="border-radius: 20px">
+<span style="font-size: 15px; font-weight: bolder">Backend:</span> Nodejs <img height="20" width="20" src="https://cdn.simpleicons.org/node.js" />, Typescript <img height="20" width="20" src="https://cdn.simpleicons.org/typescript" />, Nestjs <img height="20" width="20" src="https://cdn.simpleicons.org/nestjs" />, Express <img height="20" width="20" src="https://cdn.simpleicons.org/express/blue" />, Golang(learning) <img height="20" width="20" src="https://cdn.simpleicons.org/go" />
+<span style="font-size: 15px; font-weight: bolder">Frontend:</span> React <img height="20" width="20" src="https://cdn.simpleicons.org/react" />, Redux <img height="20" width="20" src="https://cdn.simpleicons.org/redux" />, Vuejs <img height="20" width="20" src="https://cdn.simpleicons.org/vuedotjs" />, Vite <img height="20" width="20" src="https://cdn.simpleicons.org/Vite" />
+<span style="font-size: 15px; font-weight: bolder">Mobile:</span> React Native <img height="20" width="20" src="https://cdn.simpleicons.org/react" />, Expo & Expo Router <img height="20" width="20" src="https://cdn.simpleicons.org/expo/black/white" />
+<span style="font-size: 15px; font-weight: bolder">Database:</span> SQL (PostgreSQL <img height="20" width="20" src="https://cdn.simpleicons.org/postgresql" />, Mysql <img height="20" width="20" src="https://cdn.simpleicons.org/mysql" />, SQLite <img height="20" width="20" src="https://cdn.simpleicons.org/sqlite/blue/white" />, MariaDB <img height="20" width="20" src="https://cdn.simpleicons.org/mariadb" />), NOSQL (MongoDb <img height="20" width="20" src="https://cdn.simpleicons.org/mongodb" />)
+<span style="font-size: 15px; font-weight: bolder">Cloud:</span> AWS <img height="20" width="20" src="https://cdn.simpleicons.org/amazon" />, GCP <img height="20" width="20" src="https://cdn.simpleicons.org/googlecloud" />, Mongo Atlas <img height="20" width="20" src="https://cdn.simpleicons.org/mongodb" />, Heroku <img height="20" width="20" src="https://cdn.simpleicons.org/heroku" />, Planetscale <img height="20" width="20" src="https://cdn.simpleicons.org/planetscale" />
+<span style="font-size: 15px; font-weight: bolder">Infra:</span> Docker <img height="20" width="20" src="https://cdn.simpleicons.org/docker" />, Jenkins <img height="20" width="20" src="https://cdn.simpleicons.org/jenkins" />, Kubernetes <img height="20" width="20" src="https://cdn.simpleicons.org/kubernetes" />
+</pre>
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="25" src="https://nodejs.org/static/images/logo.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="25" src="https://ahorasomos.izertis.com/solidgear/wp-content/uploads/2019/12/nest-1.png"></code>
-<code><img height="25" src="https://cdn.ourcodeworld.com/public-media/articles/articleocw-5edd6c8fac03d.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-
-
-
-### 📈 My github stats
-
-| <a href="https://github.com/GonzaloGorgojo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GonzaloGorgojo&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Gonzalo Gorgojo's github stats" /></a> | <a href="https://github.com/GonzaloGorgojo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloGorgojo&layout=compact&theme=gotham&hide_border=true" /></a> |
-
+<h3 align="center">📈 My github stats:</h3>
+<div align="center" style="margin: 0;display: flex; justify-content: space-evenly; align-items: center">
+<a href="https://github.com/GonzaloGorgojo"><img src="https://github-readme-stats.vercel.app/api?username=GonzaloGorgojo&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Gonzalo Gorgojo's github stats" /></a> <a href="https://github.com/GonzaloGorgojo"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloGorgojo&layout=compact&theme=gotham&hide_border=true" /></a>
+</div>
