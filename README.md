@@ -9,7 +9,7 @@ Feel free to explore, fork, and leave feedback if you find something interesting
 </pre>
 <h3 align="center"> 📫 Get in touch </h3>
 
-<pre>                                           <a href="mailto:gongorgojo@gmail.com"><img height="50" width="50" src="https://cdn.simpleicons.org/gmail/lightred" /></a>         <a href="https://www.linkedin.com/in/gonzalogorgojo/"><img height="50" width="50" src="https://cdn.simpleicons.org/linkedin" /></a></pre>
+<pre>                                              <a href="mailto:gongorgojo@gmail.com"><img height="50" width="50" src="https://cdn.simpleicons.org/gmail/lightred" /></a>         <a href="https://www.linkedin.com/in/gonzalogorgojo/"><img height="50" width="50" src="https://cdn.simpleicons.org/linkedin" /></a></pre>
 
 <h3 align="center">🛠️ Skills:</h3>
 <pre style="border-radius: 20px">
