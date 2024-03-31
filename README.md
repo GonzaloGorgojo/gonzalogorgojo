@@ -1,15 +1,15 @@
 <h2 align="center">Hi there, I´m <a href="https://www.linkedin.com/in/gonzalogorgojo/">Gonzalo Gorgojo!</a>👋</h2>
 
-<pre style="border-radius: 20px; text-align: justify">
-Welcome to my Github profile, I´m a Software Developer currently working at <a href="https://blanclabs.com/">Blanc Labs</a>. On this page, you'll find some of my personal projects, as well as contributions to open source software. Feel free to explore, fork, and leave feedback if you find something interesting.
+<pre style="border-radius: 20px">
+Welcome to my Github profile, I´m a Software Developer currently working at <a href="https://blanclabs.com/">Blanc Labs</a>. On this page,
+you'll find some of my personal projects, as well as contributions to open source software.
+Feel free to explore, fork, and leave feedback if you find something interesting.
 
 💡 Check out my personal <a href="https://gonzalogorgojo.com/">Portfolio</a>
 </pre>
 <h3 align="center"> 📫 Get in touch </h3>
 
-<div align="center" style="margin: 0;display: flex; justify-content: space-evenly; align-items: center">
-    <a href="mailto:gongorgojo@gmail.com"><img height="50" width="50" src="https://cdn.simpleicons.org/gmail/lightred" /></a><a href="https://www.linkedin.com/in/gonzalogorgojo/"><img height="50" width="50" src="https://cdn.simpleicons.org/linkedin" /></a>
-    </div>
+<pre>                                           <a href="mailto:gongorgojo@gmail.com"><img height="50" width="50" src="https://cdn.simpleicons.org/gmail/lightred" /></a>         <a href="https://www.linkedin.com/in/gonzalogorgojo/"><img height="50" width="50" src="https://cdn.simpleicons.org/linkedin" /></a></pre>
 
 <h3 align="center">🛠️ Skills:</h3>
 <pre style="border-radius: 20px">
