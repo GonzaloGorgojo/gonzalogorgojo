@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I´m <a href="https://www.linkedin.com/in/gonzalogorgojo/">Gonzalo Gorgojo!</a>👋</h2>
 
 <pre style="border-radius: 20px">
-Welcome to my Github profile, I´m a Software Developer currently working at <a href="https://blanclabs.com/">Blanc Labs</a>. On this page,
+Welcome to my Github profile, I´m a Software Developer currently working at <a href="https://velocia.io/">Velocia</a>. On this page,
 you'll find some of my personal projects, as well as contributions to open source software.
 Feel free to explore, fork, and leave feedback if you find something interesting.
 
