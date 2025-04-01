@@ -1,7 +1,9 @@
 <h2 align="center">Hi there, I´m <a href="https://www.linkedin.com/in/gonzalogorgojo/">Gonzalo Gorgojo!</a>👋</h2>
 
 <pre style="border-radius: 20px">
-Welcome to my Github profile, I´m a Software Developer currently working at <a href="https://velocia.io/">Velocia</a>. This GitHub is where I dump my personal projects, open-source contributions, and random experiments. Feel free to poke around, fork something, or reach out if you wanna chat about code, tech, or just geek out about stuff.
+Welcome to my Github profile, I´m a Software Developer currently working at <a href="https://velocia.io/">Velocia</a>. 
+This GitHub is where I dump my personal projects, open-source contributions, and random experiments.
+Feel free to poke around, fork something, or reach out if you wanna chat about code, tech, or just geek out about stuff.
 
 👉 Check out my portfolio: <a href="https://gonzalogorgojo.com/">gonzalogorgojo.com</a>
 📬 Hit me up: <a href="mailto:gongorgojo@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/gonzalogorgojo/">Linkedin </a>
