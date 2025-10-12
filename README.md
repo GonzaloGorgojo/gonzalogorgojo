@@ -2,10 +2,10 @@
 
 <pre style="border-radius: 20px">
 Welcome to my Github profile, I´m a Software Developer currently working at <a href="https://velocia.io/">Velocia</a>. 
-This GitHub is where I dump my personal projects, open-source contributions, and random experiments.
-Feel free to poke around, fork something, or reach out if you wanna chat about code, tech, or just geek out about stuff.
+This GitHub is where I dump my personal projects and random experiments.
+Feel free to poke around, fork something, or reach out if I can help with something.
 
-👉 Check out my portfolio: <a href="https://gonzalogorgojo.com/">gonzalogorgojo.com</a>
+👉 Check out my portfolio: <a href="https://www.gonzalogorgojo.com/">www.gonzalogorgojo.com</a>
 📬 Hit me up: <a href="mailto:gongorgojo@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/gonzalogorgojo/">Linkedin </a>
 </pre>
 
