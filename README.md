@@ -19,8 +19,7 @@ Feel free to poke around, fork something, or reach out if I can help with someth
 <span style="font-size: 15px; font-weight: bolder">Infra:</span> Docker <img height="20" width="20" src="https://cdn.simpleicons.org/docker" />, Jenkins <img height="20" width="20" src="https://cdn.simpleicons.org/jenkins" />
 </pre>
 
-<h3 align="center">📈 My github stats:</h3>
 <div align="center" style="margin: 0;display: flex; justify-content: space-evenly; align-items: center">
-<a href="https://github.com/GonzaloGorgojo"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloGorgojo&layout=compact&theme=gotham&hide_border=true" /></a>
+<a href="https://github.com/GonzaloGorgojo"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloGorgojo&layout=compact&theme=gotham&hide_border=true&langs_count=8" /></a>
 </div>
 <!-- <a href="https://github.com/GonzaloGorgojo"><img src="https://github-readme-stats.vercel.app/api?username=GonzaloGorgojo&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Gonzalo Gorgojo's github stats" /></a> -->
