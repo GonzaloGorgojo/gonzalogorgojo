@@ -7,8 +7,6 @@ Feel free to poke around, fork something, or reach out if I can help with someth
 
 👉 Check out my portfolio: <a href="https://www.gonzalogorgojo.com/">www.gonzalogorgojo.com</a>
 📬 Hit me up: <a href="mailto:gongorgojo@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/gonzalogorgojo/">Linkedin </a>
-    
-<h3 align="center">🛠️ Skills:</h3>
 
 <span style="font-size: 15px; font-weight: bolder">Backend:</span> Nodejs <img height="20" width="20" src="https://cdn.simpleicons.org/node.js" />, Typescript <img height="20" width="20" src="https://cdn.simpleicons.org/typescript" />, Nestjs <img height="20" width="20" src="https://cdn.simpleicons.org/nestjs" />, Express <img height="20" width="20" src="https://cdn.simpleicons.org/express/blue" />, Golang <img height="20" width="20" src="https://cdn.simpleicons.org/go" />
 <span style="font-size: 15px; font-weight: bolder">Frontend:</span> React <img height="20" width="20" src="https://cdn.simpleicons.org/react" />, Redux <img height="20" width="20" src="https://cdn.simpleicons.org/redux" />, NextJS <img height="20" width="20" src="https://cdn.simpleicons.org/nextdotjs" />, Vuejs <img height="20" width="20" src="https://cdn.simpleicons.org/vuedotjs" />, Vite <img height="20" width="20" src="https://cdn.simpleicons.org/Vite" />
