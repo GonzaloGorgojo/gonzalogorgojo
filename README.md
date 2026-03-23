@@ -5,7 +5,7 @@ Welcome to my Github profile, I´m a Software Developer currently working at <a 
 This GitHub is where I dump my personal projects and random experiments.
 Feel free to poke around, fork something, or reach out if I can help with something.
 
-👉 Check out my portfolio: <a href="https://www.gonzalogorgojo.com/">www.gonzalogorgojo.com</a>
+👉 Check out my portfolio: <a href="https://www.gongorgojo.com/">www.gongorgojo.com</a>
 📬 Hit me up: <a href="mailto:gongorgojo@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/gonzalogorgojo/">Linkedin </a>
 
 <span style="font-size: 15px; font-weight: bolder">Backend:</span> Nodejs <img height="20" width="20" src="https://cdn.simpleicons.org/node.js" />, Typescript <img height="20" width="20" src="https://cdn.simpleicons.org/typescript" />, Nestjs <img height="20" width="20" src="https://cdn.simpleicons.org/nestjs" />, Express <img height="20" width="20" src="https://cdn.simpleicons.org/express/blue" />, Golang <img height="20" width="20" src="https://cdn.simpleicons.org/go" />
