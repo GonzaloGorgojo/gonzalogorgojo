@@ -9,9 +9,6 @@ This is where I keep my personal projects and experiments. Feel free to poke aro
 📩 <a href="mailto:gongorgojo@gmail.com">Email</a>
 </p>
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalogorgojo&layout=compact&theme=tokyonight"/>
-</p>
 
 # 🛠 Tech Stack
 
