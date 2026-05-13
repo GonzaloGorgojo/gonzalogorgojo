@@ -9,8 +9,7 @@ This is where I keep my personal projects and experiments. Feel free to poke aro
 📩 <a href="mailto:gongorgojo@gmail.com">Email</a>
 </p>
 </p>
-
-# 🛠 Tech Stack
+<h2 align="center">🛠 Tech Stack</h2>
 
 ### Backend
 
