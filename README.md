@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I´m <a href="https://www.linkedin.com/in/gonzalogorgojo/">Gonzalo Gorgojo!</a>👋</h2>
 
 <p align="center">
-Welcome to my Github profile, I´m a Software Engineer currently working at <a href="https://velocia.io/">Velocia</a>. 
+Welcome to my Github profile, I´m a Software Engineer currently working at <a href="https://www.cookunity.com">Cook Unity</a>. 
 This is where I keep my personal projects and experiments. Feel free to poke around, fork something, or reach out if I can help with something.
 <p align="center">
 🌎 <a href="https://www.gongorgojo.com">Portfolio</a> •
